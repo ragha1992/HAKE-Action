@@ -6,7 +6,7 @@ import _init_paths
 import tensorflow as tf
 import numpy as np
 import argparse
-import cPickle as pickle
+import pickle
 import os
 
 from ult.config import cfg

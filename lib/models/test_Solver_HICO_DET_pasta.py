@@ -8,7 +8,7 @@ from ult.timer import Timer
 from ult.ult_HICO_DET import Get_next_sp_with_pose, Generate_part_bbox, Generate_relation_bbox, Generate_action_object
 from ult.HICO_DET_utils import obj_range, get_map
 
-import cPickle as pickle
+import pickle
 import numpy as np
 import os
 import sys

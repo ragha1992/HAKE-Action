@@ -2,6 +2,7 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 
+%tensorflow_version 1.x
 import tensorflow as tf
 import tensorflow.contrib.slim as slim
 from tensorflow.contrib.slim import arg_scope

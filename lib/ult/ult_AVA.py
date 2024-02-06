@@ -5,7 +5,7 @@ from __future__ import print_function
 
 import numpy as np
 import json
-import cPickle as pickle
+import pickle
 import random
 from random import randint
 import tensorflow as tf

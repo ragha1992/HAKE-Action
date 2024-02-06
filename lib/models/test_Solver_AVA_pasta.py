@@ -7,7 +7,7 @@ from ult.config import cfg
 from ult.timer import Timer
 from ult.ult_AVA import Generate_part_bbox
 
-import cPickle as pickle
+import pickle
 import numpy as np
 import os
 import sys

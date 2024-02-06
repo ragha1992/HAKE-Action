@@ -7,7 +7,7 @@ from ult.config import cfg
 from ult.ult_AVA import Get_Next_Instance_Verb_AVA_transfer
 from ult.timer import Timer
 
-import cPickle as pickle
+import pickle
 import numpy as np
 import os
 import sys
